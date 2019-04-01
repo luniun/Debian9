@@ -13,7 +13,7 @@ sleep 2
 echo "Installation des depandances"
 echo ""
 echo ""
-apt install git curl net-tools sudo ca-certificates -y
+apt install git curl net-tools sudo dirmngr ca-certificates -y
 
 echo "Ok"
 sleep 2
