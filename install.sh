@@ -47,6 +47,8 @@ userdel -r -f  luniun
 echo ""
 echo ""
 sleep 2
+nano /etc/hosts
 
 echo "Systeme Pret"
-
+pause 3
+reboot
